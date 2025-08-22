@@ -34,8 +34,6 @@ https://github.com/lrrice/lrrice
 
 Im not entirely sure. I know very little about AI, and I want to learn as much as I can. I guess im just excited to get to see the inner workings of something that seems so unknowable.
 
-[Your answer here - feel free to write a paragraph or more!]
-
 ---
 
 *Remember: This writeup will be graded based on the quality of your explanations and reflections, not just whether you got the "right" answer. Show your thinking!*
