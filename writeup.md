@@ -14,7 +14,7 @@ Git is a VCS, a tool for tracking changes to code, while GitHub is an interface 
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-Commiting is when you make changes to a project and want to add a checkpoint and communicate why this change was made. Pushing adds all commits to the repository. Commiting is like placing changes in a queue, while pusching is finalizing these items.
+Commiting is when you make changes to a project and want to add a checkpoint and communicate why this change was made. Pushing adds all commits to the repository. Commiting is like placing changes in a queue, while pusching is finalizing these items. They are important because that is how you make permanent changes to a repository.
 
 **3. What is a repository and what does it contain?**
 
